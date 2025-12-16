@@ -1,4 +1,4 @@
-# SQL — pipeline BigQuery (Bitcoin Cash)
+# SQL — BigQuery Requests (Bitcoin Cash)
 
 ## Idée générale (concept)
 On travaille avec une **fenêtre de temps glissante** (rolling window) pour analyser les transactions sur une période donnée (ex. 30 jours, ou un intervalle défini).  
