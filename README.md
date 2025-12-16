@@ -93,8 +93,4 @@ Le projet suit notamment les indicateurs clés suivants :
 * **Haba Fromo Francis**
 * **Awa DIAW**
 
-```
 
-Souhaitez-vous que j'ajoute une section spécifique sur la configuration des permissions GCP ou que je détaille davantage une partie de l'architecture ?
-
-```
