@@ -83,19 +83,6 @@ Script à utiliser dans **BigQuery Scheduled Queries** :
     </thead>
 
    <tbody>
-   <tr style="background:#0b1220; color:#e5e7eb;">
-        <td style="border:2px solid #D4AF37; padding:12px;"><b>🗓️ Jour</b></td>
-        <td style="border:2px solid #D4AF37; padding:12px;">
-          Regrouper toutes les transactions par <b>date</b> (jour calendaire du bloc).
-        </td>
-        <td style="border:2px solid #D4AF37; padding:12px;">
-          Unité d’analyse : 1 ligne = 1 jour.
-        </td>
-        <td style="border:2px solid #D4AF37; padding:12px;">
-          Support des tendances, saisonnalité, détection de pics/anomalies.
-        </td>
-      </tr>
-
    <tr style="background:#0f172a; color:#e5e7eb;">
         <td style="border:2px solid #D4AF37; padding:12px;"><b>📈 Nombre de transactions / jour</b><br/><span style="font-size:12px; color:#cbd5e1;">nombre_transactions_jour</span></td>
         <td style="border:2px solid #D4AF37; padding:12px;">
