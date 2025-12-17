@@ -1,4 +1,4 @@
-# Projet BDCC 2025 : Analyse BI en Temps Réel - Bitcoin Cash
+# Projet BDCC 2025 : Utilisation de Google BigQuery pour des rapports BI en temps réel - Bitcoin Cash
 
 **Sous la supervision de:** Mme Mously Diaw, Senior ML Engineer  
 **Entreprise :** ChainSight Solutions  
