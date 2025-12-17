@@ -8,7 +8,7 @@
 
 ## 📝 Description du Projet
 
-Ce projet s'inscrit dans le cadre du cours de **"Big Data & Cloud Computing"**. L'objectif central est de démontrer l'utilisation de **Google BigQuery** pour générer des rapports BI en temps réel.
+Ce projet s'inscrit dans le cadre du cours de **" d'initiation au Big Data et au Cloud Computing"**. L'objectif central est de démontrer l'utilisation de **Google BigQuery** pour générer des rapports BI en temps réel.
 
 Dans l'atteinte de cet objectif, nous travaillons avec une base de données sur la cryptomonnaie (**Bitcoin Cash**) pour laquelle nous avons défini la problématique métier suivante :
 
