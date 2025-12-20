@@ -39,7 +39,7 @@ projet-bdcc-2025-bitcoin-cash/
 ├── docs/                       # Documentation technique détaillée
 │   └── documentation_technique.pdf
 ├── python/
-    └──                         # Dossier contenant la Cloud Function pour le pilotage automatisé du pipeline
+    └── script_automatisation_python.py # Dossier contenant la Cloud Function pour le pilotage automatisé du pipeline
 └── README.md                   # Documentation principale du projet
 
 ```
