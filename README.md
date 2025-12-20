@@ -82,7 +82,7 @@ Le dossier /python contient un script (script_automatisation_python.py) conçu p
 
 1. **Mécanisme de Slide** : Le script met à jour une table de configuration rolling_state en ajoutant 7 jours à chaque itération.
 2. **Cycle de Vie** : Il reconstruit automatiquement les tables de données et recalcule les KPIs (journaliers et globaux) pour chaque nouvelle période.
-3.**Performance** : Configuration actuelle de 15 itérations avec une pause de 5 secondes pour observer la dynamique sur Looker Studio.
+3. **Performance** : Configuration actuelle de 15 itérations avec une pause de 5 secondes pour observer la dynamique sur Looker Studio.
 
 ---
 
