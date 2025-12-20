@@ -38,6 +38,8 @@ projet-bdcc-2025-bitcoin-cash/
 │   └── readme.md               # Documentation spécifique au dossier SQL
 ├── docs/                       # Documentation technique détaillée
 │   └── documentation_technique.pdf
+├── python/
+    └──                         # Dossier contenant la Cloud Function pour le pilotage automatisé du pipeline
 └── README.md                   # Documentation principale du projet
 
 ```
@@ -75,6 +77,16 @@ Le projet suit notamment les indicateurs clés suivants :
 
 ---
 
+## 🔄 Automatisation & Simulation Temps Réel
+Le dossier /python contient un script (script_automatisation_python.py) conçu pour être déployé en tant que Cloud Function.
+
+1. **Mécanisme de Slide** : Le script met à jour une table de configuration rolling_state en ajoutant 7 jours à chaque itération.
+2.**Cycle de Vie** : Il reconstruit automatiquement les tables de données et recalcule les KPIs (journaliers et globaux) pour chaque nouvelle période.
+3.**Performance** : Configuration actuelle de 15 itérations avec une pause de 5 secondes pour observer la dynamique sur Looker Studio.
+
+---
+
+
 ## 🚀 Installation et Configuration Rapide
 
 1. **Cloner** ce dépôt sur votre machine locale.
@@ -84,6 +96,7 @@ Le projet suit notamment les indicateurs clés suivants :
 5. Connecter **Looker Studio** aux tables résultantes situées dans le dataset `crypto_analytics`.
 
 ---
+
 
 ## 👥 Auteurs (Équipe)
 
